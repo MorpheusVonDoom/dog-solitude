@@ -4,7 +4,7 @@
 
 ## Capturing the Overdrive
 
-Careen through the neon southern world of Mona Lisa Overdrive. 
+Careen through the southern neon world of Mona Lisa Overdrive. 
 
 ---
 

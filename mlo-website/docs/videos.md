@@ -83,9 +83,23 @@ Adding Videos to Gallery Below:
 <!-- Add live performance videos here -->
 
 <div class="card">
-<p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Live performance videos coming soon</p>
+<p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Trip the rift with the overdrive from another time!</p>
 </div>
-
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/ITB-9jDq4NM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/pJG2DmNVjpY" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/ol006zdCPHo" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/JeowjpNLYW4" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/2sy2nLja_hE" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 
 ---
