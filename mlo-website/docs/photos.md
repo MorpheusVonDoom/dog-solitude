@@ -87,7 +87,6 @@ Adding Photos to Gallery Below:
 
 <div class="photo-collage">
 
-<!-- Add promo photos here using images/photos/promo/ path -->
 <p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Promotional photos coming soon</p>
 
 </div>
@@ -98,7 +97,6 @@ Adding Photos to Gallery Below:
 
 <div class="photo-collage">
 
-<!-- Add BTS photos here using images/photos/bts/ path -->
 <p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Behind the scenes photos coming soon</p>
 
 </div>
@@ -109,7 +107,6 @@ Adding Photos to Gallery Below:
 
 <div class="photo-collage">
 
-<!-- Add fan photos here using images/photos/fan/ path -->
 <p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Fan photos coming soon</p>
 
 </div>

@@ -60,15 +60,6 @@ Adding Videos to Gallery Below:
 
 <div class="grid-2col">
 
-<!-- Example template for YouTube embed:
-<div class="card">
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 10px;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
-</div>
-<p style="text-align: center; color: var(--neon-cyan);"><strong>Song Title</strong><br>Release Date</p>
-</div>
--->
-
 <div class="card">
 <p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Music videos coming soon</p>
 </div>
@@ -109,8 +100,6 @@ Adding Videos to Gallery Below:
 
 <div class="grid-2col">
 
-<!-- Add studio session videos here -->
-
 <div class="card">
 <p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Studio session videos coming soon</p>
 </div>
@@ -122,8 +111,6 @@ Adding Videos to Gallery Below:
 ## Visualizers
 
 <div class="grid-2col">
-
-<!-- Add visualizer videos here -->
 
 <div class="card">
 <p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Visualizer videos coming soon</p>
