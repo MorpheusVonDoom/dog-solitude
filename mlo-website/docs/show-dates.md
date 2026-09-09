@@ -19,6 +19,8 @@ Free admission, 21 &amp; up, and the show starts at 8pm.<br>
 Venue: Locked &amp; Loaded Bar &amp; Grill<br>
 Address: 305 McCormick St, Garner, NC 27529<br>
 
+<img src="/images/locked and loaded.png" alt="Locked &amp; Loaded Bar &amp; Grill">
+
 <iframe src="https://www.google.com/maps?q=305%20McCormick%20St,%20Garner,%20NC%2027529&output=embed" width="100%" height="300" style="border:0; border-radius: 8px; margin: 20px 0; box-shadow: 0 0 15px var(--glow-purple);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </div>

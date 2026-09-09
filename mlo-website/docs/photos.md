@@ -80,6 +80,7 @@ Adding Photos to Gallery Below:
 
 </div>
 
+<!--
 ---
 
 ## Promotional Shots
@@ -112,6 +113,7 @@ Adding Photos to Gallery Below:
 <p style="text-align: center; color: var(--neon-cyan); font-style: italic;">Fan photos coming soon</p>
 
 </div>
+-->
 
 ---
 

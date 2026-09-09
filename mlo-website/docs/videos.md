@@ -55,6 +55,7 @@ Adding Videos to Gallery Below:
 ═══════════════════════════════════════════════════════════════════
 -->
 
+<!--
 ## Music Videos
 
 <div class="grid-2col">
@@ -73,8 +74,7 @@ Adding Videos to Gallery Below:
 </div>
 
 </div>
-
----
+-->
 
 ## Live Performances
 
@@ -102,6 +102,7 @@ Adding Videos to Gallery Below:
 </div>
 </div>
 
+<!--
 ---
 
 ## Studio Sessions
@@ -129,6 +130,7 @@ Adding Videos to Gallery Below:
 </div>
 
 </div>
+-->
 
 ---
 

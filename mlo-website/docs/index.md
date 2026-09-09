@@ -13,21 +13,18 @@
     <h1 class="hero-subtitle"> Mona Lisa Overdrive</h1>
 </div>
 
+## Booking
+
+For booking requests, <a href="mailto:monalisaoverdriveilm@gmail.com" class="display">email us.</a>
 ---
 
-## Wilmington, NC's Hottest Electric Rock Band
+## Wilmington, NC's All-Eras Rock 'n' Roll Experience
 
 Just a neon heartbeat cracking the room open at the seams with singing amplifiers, all heat and sonic afterburn.<br>
 <br>
 It's all the muscle of AC/DC, the flash of Van Halen, the crisp tone of the Scorpions.<br>
 <br>
 Mona Lisa Overdrive boasts Twin Turbo Guitars, a wall of bass, precision drumming, and soaring vocals all dedicated to a big groove, high energy, and vocals forward presentation.<br>
-<br>
-But the real show starts when the room begins to shift. When the *jamais vu* hits. When time seems to curl away somewhere... <br>
-<br>
-You may have walked in only breathing. <br>
-<br>
-But you're gonna leave living.<br>
 <br>
 We're Mona Lisa Overdrive. We'll get you where you're going.
 
@@ -63,10 +60,6 @@ We're Mona Lisa Overdrive. We'll get you where you're going.
 </div>
 
 ---
-
-## Booking
-
-For booking requests, <a href="mailto:monalisaoverdriveilm@gmail.com" class="display">email us.</a>
 
 <!--
 <div class="grid-2col">
