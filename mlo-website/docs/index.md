@@ -12,17 +12,15 @@
     </div>
     <h1 class="hero-subtitle"> Mona Lisa Overdrive</h1>
 </div>
-
 ## Booking
 
 For booking requests, <a href="mailto:monalisaoverdriveilm@gmail.com" class="display">email us.</a>
+
 ---
 
-## Wilmington, NC's All-Eras Rock 'n' Roll Experience
-
-Just a neon heartbeat cracking the room open at the seams with singing amplifiers, all heat and sonic afterburn.<br>
+## An All-Eras Rock 'n' Roll Experience
 <br>
-It's all the muscle of AC/DC, the flash of Van Halen, the crisp tone of the Scorpions.<br>
+It's all the muscle of AC/DC, the flash of Van Halen, the crisp tone of the Scorpions. Just a neon heartbeat, all heat and sonic afterburn.<br>
 <br>
 Mona Lisa Overdrive boasts Twin Turbo Guitars, a wall of bass, precision drumming, and soaring vocals all dedicated to a big groove, high energy, and vocals forward presentation.<br>
 <br>

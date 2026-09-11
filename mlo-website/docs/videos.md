@@ -2,9 +2,9 @@
 
 ---
 
-## Experience in Motion
+## Experience the Overdrive in Motion
 
-The overdrive captured on screen. Live performances, music videos, and visual experiments that bring our sound to life.
+The overdrive captured on screen. Live footage, behind the scenes, fan footage, and more!
 
 ---
 

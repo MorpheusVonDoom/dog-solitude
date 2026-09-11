@@ -24,8 +24,7 @@ Address: 305 McCormick St, Garner, NC 27529<br>
 <iframe src="https://www.google.com/maps?q=305%20McCormick%20St,%20Garner,%20NC%2027529&output=embed" width="100%" height="300" style="border:0; border-radius: 8px; margin: 20px 0; box-shadow: 0 0 15px var(--glow-purple);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </div>
-
-
+</div>
 
 <!--
 HOW TO ADD GOOGLE MAPS:
@@ -52,7 +51,6 @@ HOW TO ADD GOOGLE MAPS:
 
 ## Past Shows
 
----
 <details>
 <summary style="font-family: Orbitron; font-size: 1.5em; font-weight: bold; padding: 15px 20px; list-style: none; display: block;">Mona Lisa Overdrive at The Eagle's Dare 7/11/26</summary>
 
@@ -69,8 +67,8 @@ Join us on the big stage to celebrate and say Farewell to Grom & Jared as they m
 <br>
 A suggested $10 donation goes directly to all the bands, but any amount is appreciated.
 <div style="display: flex; gap: 12px; margin-top: 16px;">
-  <img src="images/live music - 1.jpeg" style="width: 50%; border-radius: 8px; object-fit: cover;">
-  <img src="images/IMG_0526.jpeg" style="width: 50%; border-radius: 8px; object-fit: cover;">
+  <img src="/images/live music - 1.jpeg" style="width: 50%; border-radius: 8px; object-fit: cover;">
+  <img src="/images/IMG_0526.jpeg" style="width: 50%; border-radius: 8px; object-fit: cover;">
 </div>
 </div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6596.598990441861!2d-77.9462248!3d34.2409007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89aa1fc175f85039%3A0xdaac1e9f9a622ad0!2s420%20N%203rd%20St%2C%20Wilmington%2C%20NC%2028401!5e0!3m2!1sen!2sus!4v1775094790826!5m2!1sen!2sus" width="100%" height="300" style="border:0; border-radius: 8px; margin: 20px 0; box-shadow: 0 0 15px var(--glow-purple);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
