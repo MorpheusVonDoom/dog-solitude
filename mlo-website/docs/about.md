@@ -68,23 +68,22 @@ Equal parts humble artist and backroads rebel, Van's roots are wound tightly wit
 
 <div class="member-card">
 
-<img src="/images/aboutphotos/jared 10.jpg" alt="Jared Bosse" class="member-image-placeholder">
+<img src="/images/aboutphotos/John1.jpg" alt="John Noble" class="member-image-placeholder">
 
-<h3>Jared Bosse</h3>
+<h3>John Noble</h3>
 
-<span class="member-role">Bass Boss</span>
+<span class="member-role">Groove Meister</span>
 
 <div class="member-bio">
-“When it awoke, no one knows for sure — but there was no denying its neon heartbeat.”<br>
+“Then there was a great tidal beat and a new rhythm harmonized...”<br>
 <br>
-Meet MLO's Bass Boss. A surfer of soundwaves and captivator of cameras, Jared is as hardworking as he is enthusiastic. He seems to run on the very same low end energy he provides, the deep thrum of the overdrive, proving himself a product of his own paradox.
+Meet MLO's Groove Meister, John Noble. The only things as impressive as John's chops, enthusiasm, and dedication are his humility and wit. He brings with him years of experience and brings the band's overall height average over 6 feet.
 </div>
 
 <div class="member-acts">
 <span class="member-acts-label">Associated Acts</span>
 <div class="member-acts-list">
-<div class="Associated Act"> <a href="https://www.instagram.com/sometimesfunband/">Sometimes Fun</a></div><br>
-<div class="Associated Act"> <a href="https://open.spotify.com/artist/38i1UpBZ2NCYzeYbrW1BSU?si=nuec2iWHTTSmk5wlOJf8sA">Loud Music Company</a></div><br>
+<div class="Associated Act"> <a href="https://www.instagram.com/the_nobles_ilm?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">The Nobles</a></div><br>
 
 </div>
 </div>
